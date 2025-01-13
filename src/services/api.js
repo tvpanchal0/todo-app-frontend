@@ -1,7 +1,7 @@
 // src/services/api.js
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'todo-backend-nq8cglrmk-tvpanchal0s-projects.vercel.app';
 
 // Axios instance with default settings
 const api = axios.create({
