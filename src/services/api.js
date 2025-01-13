@@ -1,7 +1,7 @@
 // src/services/api.js
 import axios from 'axios';
 
-const API_URL = 'todo-backend-nq8cglrmk-tvpanchal0s-projects.vercel.app';
+const API_URL = 'https://todo-backend-app-liard.vercel.app';
 
 // Axios instance with default settings
 const api = axios.create({
